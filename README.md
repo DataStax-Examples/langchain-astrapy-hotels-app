@@ -40,7 +40,7 @@ to provide connection details and OpenAI key when prompted.
 
 In the meantime, the app will open in the top panel. **We recommend opening the app in a new browser tab** for a better view, using the link that will be provided in the bottom console once everything is ready.
 
-<a href="https://gitpod.io/#https://github.com/hemidactylus/langchain-astrapy-hotels-app"><img src="images/open_in_gitpod.svg" /></a>
+<a href="https://gitpod.io/#https://github.com/DataStax-Examples/langchain-astrapy-hotels-app"><img src="images/open_in_gitpod.svg" /></a>
 
 Once you see the `Uvicorn running on [address:port]` message,
 the API is ready and you can start using the client.
